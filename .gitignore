@@ -1,0 +1,17 @@
+### IntelliJ ###
+.idea/
+
+### vscode ###
+.vscode
+
+### Logs ###
+test-report/
+
+### Node ###
+node_modules/
+
+### MACOS ###
+.DS_Store
+
+### Zalenium ###
+videos/
