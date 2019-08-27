@@ -1,0 +1,22 @@
+{
+  "defaultStudent": {
+    "name": "Abraham Student",
+    "user": "aStudent@finetunelearning.com",
+    "password": "123PassTune"
+  },
+  "expiredStudent": {
+    "name": "Abraham Student Expired",
+    "user": "aStudentExpired@finetunelearning.com",
+    "password": "123PassTune"
+  },
+  "teacher": {
+    "name": "Jack Teacher",
+    "user": "JTeacher@finetunelearning.com",
+    "password": "456PassTune"
+    },
+  "expirecTeacher": {
+    "name": "Jack Teacher Expired",
+    "user": "JTeacherExpired@finetunelearning.com",
+    "password": "456PassTune"
+  }
+}
