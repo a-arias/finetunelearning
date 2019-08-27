@@ -7,6 +7,11 @@ If you don't want to start a Selenium Server, you can use Selenium Standalone fr
 So, you should uncomment the line 58 on `wdio.conf.js`.  
 Then the tests run on your machine without a docker selenium.
 
+Installing
+```bash
+npm install
+```
+
 Run e2e tests:
 
 ```bash
